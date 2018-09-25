@@ -25,7 +25,7 @@ module.exports = {
     ],
 
     sidebar: {
-      "/3.0/": require("./3.0")
+      "/": require("./docs")
     }
   }
 };
