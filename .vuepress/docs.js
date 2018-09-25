@@ -2,7 +2,7 @@ module.exports = [
   {
     title: "Getting Started",
     collapsable: false,
-    children: ["introduction"]
+    children: [""]
   },
   {
     title: "Houses",
