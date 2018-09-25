@@ -10,7 +10,7 @@ This part of the feature documentation is still a WIP.
 | --------------- | --------- | ---------------- | ---------------------- |
 | Graffiti System | TommyB    | 2.5              | 25th of September 2018 |
 
-## Summary
+### Summary
 
 ![Graffiti System](./img/graffiti-overview.png)
 The graffiti system was introduced in Version 2.5 as an addition to the lineup of features for illegal factions. It is an enhanced version to the former tag system, which was introduced in Version 2.4, and later disabled in Version 2.4 R2.
@@ -19,7 +19,7 @@ The development of the graffiti system started in mid-2014, but its implementati
 
 With the system making a return in Version 2.5, it has been decided to keep this feature exclusive to official illegal factions in order to moderate the number of graffiti placed around the server. This feature was scripted using basic resources that is available from San Andreas Multiplayer.
 
-## Core Feautures
+### Core Feautures
 
 ![Graffiti Core Features](./img/graffiti-core-features.png)
 
@@ -67,7 +67,7 @@ Please ensure that the graffiti content and attachment is realistic; otherwise, 
 </div>
 </div>
 
-## Related Commands
+### Related Commands
 
 - **/tag** - Allows an illegal faction member to create a tag.
 - **/edittag** - Allows any member in your faction to edit a tag placed by you or another faction member.

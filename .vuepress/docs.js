@@ -4,10 +4,15 @@ module.exports = [
     collapsable: false,
     children: [""]
   },
+  // {
+  //   title: "Houses",
+  //   collapsable: false,
+  //   children: prefix("houses", ["", "furniture"])
+  // },
   {
-    title: "Houses",
-    collapsable: false,
-    children: prefix("houses", ["", "furniture"])
+    title: "Vehicles",
+    collapsable: true,
+    children: prefix("vehicles", ["", "obtaining-a-vehicle"])
   },
   {
     title: "Misc",
