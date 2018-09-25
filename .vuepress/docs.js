@@ -11,7 +11,7 @@ module.exports = [
   // },
   {
     title: "Vehicles",
-    collapsable: true,
+    collapsable: false,
     children: prefix("vehicles", ["", "obtaining-a-vehicle"])
   },
   {
