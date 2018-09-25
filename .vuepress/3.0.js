@@ -8,6 +8,11 @@ module.exports = [
     title: "Houses",
     collapsable: false,
     children: prefix("houses", ["", "furniture"])
+  },
+  {
+    title: "Misc",
+    collapsable: false,
+    children: prefix("misc", ["graffiti"])
   }
 ];
 

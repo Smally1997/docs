@@ -1,6 +1,6 @@
 module.exports = {
   description: "Official Documentation for Red County Roleplay",
-  base: "/docs-production/",
+  base: "/",
   head: [
     [
       "link",
