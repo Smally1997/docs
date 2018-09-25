@@ -10,6 +10,11 @@ module.exports = [
   //   children: prefix("houses", ["", "furniture"])
   // },
   {
+    title: "New Players",
+    collapsable: false,
+    children: prefix("new-players", [""])
+  },
+  {
     title: "Vehicles",
     collapsable: false,
     children: prefix("vehicles", ["", "obtaining-a-vehicle"])

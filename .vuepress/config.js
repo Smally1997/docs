@@ -15,12 +15,11 @@ module.exports = {
 
   themeConfig: {
     logo: "/logo.png",
-    displayAllHeaders: true,
     sidebarDepth: 1,
 
     nav: [
       { text: "Home", link: "https://redcountyrp.com" },
-      { text: "Docs", link: "https://docs.redcountyrp.com" },
+      { text: "Docs", link: "/" },
       { text: "Version", link: "/", items: [{ text: "1.0", link: "/1.0/" }] }
     ],
 
